@@ -1,0 +1,17 @@
+""""""""""""""""""""""""""""""""""""""""""""""""
+"This is Rachel Lohan's Personal Python Project"
+"Open to all suggestions :)Currently a beginner"
+"Date 8/26/2022                                "
+""""""""""""""""""""""""""""""""""""""""""""""""
+
+#Workout Generator for beginners
+
+def begin():
+    level = input(print("Welcome to Whoosie Fitness! Please mark your experience"))
+    sty = input(print("What time of lifting do you perfer?"))
+    if level == "Intermediate" and sty=="Powerlifting":
+        print ("workoutPlan")
+
+
+
+pass
